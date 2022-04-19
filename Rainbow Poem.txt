@@ -6,3 +6,6 @@ yellow
 green
 blue
 indigo
+
+
+This is written by nikhiilz
