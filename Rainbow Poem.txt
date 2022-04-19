@@ -7,3 +7,5 @@ green
 blue
 indigo
 violet
+This is written by nikhiilz
+
